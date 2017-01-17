@@ -1212,6 +1212,8 @@ display: flex;
   width: 22%;
   overflow: hidden;
 }
+
+
 #mu-chef .mu-chef-area .mu-chef-content .mu-chef-nav .slick-list li:first-child {
   margin-left: 0;
 }
