@@ -170,7 +170,7 @@ img {
   transition: all 0.5s;
 }
 .mu-main-navbar .navbar-header .navbar-brand img {
-  width: 300%;
+  width: 180%;
   height: 300%;
 }
 .mu-main-navbar .navbar-header .navbar-brand span {
@@ -182,7 +182,7 @@ img {
 }
 .mu-main-navbar .navbar-header .navbar-brand-small {
   height: 20px;
-  margin-top: 16px;
+  margin-top: -5px;
   width: 105px;
 }
 
@@ -196,7 +196,7 @@ img {
 
 .navbar-bg {
   background-color: rgba(0, 0, 0, 0.8);
-  padding: 10px 0;
+  padding: 20px 0;
 }
 
 /* ALL SECTION */
