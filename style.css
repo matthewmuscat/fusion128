@@ -2129,7 +2129,7 @@ display: flex;
 
   .mu-main-navbar .navbar-header .navbar-brand-small {
     height: 25px;
-    margin-top: 13px;
+    margin-top: -12px;
     width: 110px;
   }
 
