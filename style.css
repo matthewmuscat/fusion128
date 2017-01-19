@@ -132,7 +132,7 @@ img {
 .mu-main-navbar {
   background-color: transparent;
   border: none;
-  padding: 25px 0;
+  padding: 50px 0;
   border-radius: 0;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -160,7 +160,7 @@ img {
 }
 .mu-main-navbar .navbar-header .navbar-brand {
   padding: 0;
-  margin-top: 8px;
+  margin-top: 0px;
   height: 34px;
   width: 145px;
   -webkit-transition: all 0.5s;
@@ -170,8 +170,8 @@ img {
   transition: all 0.5s;
 }
 .mu-main-navbar .navbar-header .navbar-brand img {
-  width: 110%;
-  height: 140%;
+  width: 300%;
+  height: 300%;
 }
 .mu-main-navbar .navbar-header .navbar-brand span {
  	color: #fff;
