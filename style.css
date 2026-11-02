@@ -2081,6 +2081,55 @@ display: flex;
 
 
 
+/* Adept Studio creator credit */
+#mu-footer .studio-credit {
+  float: left;
+  width: 100%;
+  margin-top: 20px;
+  padding: 0 16px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  color: #ddd;
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+#mu-footer .studio-credit__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  color: #fff;
+}
+
+#mu-footer .studio-credit__mark {
+  display: block;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+}
+
+#mu-footer .studio-credit__name {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+#mu-footer .studio-credit__link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+#mu-footer .studio-credit__link:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 4px;
+}
+
 /*==================
  RESPONSIVE DESIGN
 ====================*/
